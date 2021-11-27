@@ -1,1 +1,50 @@
-//code here
+/*****     L O G O     *****/
+.logo {
+    height: 3.25rem;
+}
+
+/*****     S E A R C H     *****/
+.search {
+    &__input {
+
+    }
+
+    &__button {
+        
+    }
+
+    &__icon {
+        height: 2rem;;
+        width: 2rem;
+    }
+}
+
+/*****     U S E R - N A V I G A T I O N     *****/
+.user-nav {
+    /*
+    &__icon-box {
+
+    }*/
+
+    &__icon {
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+    /*
+    &__notification {
+        
+    }
+
+    &__user {
+
+    }*/
+
+    &__user-photo {
+        height: 3.75rem;
+        border-radius: 50%;
+    }
+    /*
+    &__user-name {
+        
+    }*/
+}

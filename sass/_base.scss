@@ -54,9 +54,9 @@ body {
     line-height: 1.6;
     color: var(--color-grey-dark-2);
     background-image: linear-gradient(
-        (to right bottom), 
+        (to right bottom, 
         var(--color-primary-light), 
-        var(--color-primary-dark)
+        var(--color-primary-dark))
     );
 
     background-size: cover;
